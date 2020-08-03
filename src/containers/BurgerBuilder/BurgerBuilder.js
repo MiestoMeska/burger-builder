@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Burger from "../../components/Burger/Burger";
 import { connect } from "react-redux";
 import axios from "../../axios-orders";
-import Aux from "../../hoc/Auxilliary/Aux";
+import Aux from "../../hoc/Auxilliary/Auxiliary";
 import BuildControls from "../../components/Burger/BuildControls/BuildControls";
 import Modal from "../../components/UI/Modal/Modal";
 import OrderSummary from "../../components/Burger/OrderSummary/OrderSummary";
