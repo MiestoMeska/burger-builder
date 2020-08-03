@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+apiKey should be imported to src/store/sagas/auth.js 
 
 ## Available Scripts
 
